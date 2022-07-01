@@ -1,0 +1,37 @@
+1. Explain the use of JavaScript ( or What you can do using a JavaScript)
+
+Used to implement web applications , mobile applications , Backend , APIs , Desktop Applications , Machine Learning 
+and BlockChain
+
+
+2. What is the difference between client-side and server-side?
+
+If web servers need to compile the application before run those in web browser called as servier-side , if those are not
+applications needed needed server and compile in browser itself called as client-side.
+
+
+3. What is Nodejs?
+
+helps to run the application in server side
+
+
+4. Explain Scope in JavaScript
+
+can define variable with different scopes like public, private and protected .
+public variable can access accross the application.
+private variable can access within the variable declared class.
+
+
+5. JavaScript is asynchronous or synchronous.
+
+asynchronous
+
+
+6. JavaScript is Single-threaded or Multi-threaded
+
+Multi-threaded
+
+
+7. Explain DOM in your own word.
+
+the place where the declared variables stored when application started to run.
